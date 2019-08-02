@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564681430078.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "978933804",
+    "id" : "430B0B83",
+    "lastKnownWriteTime" : 1564681477,
+    "last_content_update" : 1564681477174,
+    "path" : "~/websites/bjungbogati/_posts/my-blog.Rmd",
+    "project_path" : "_posts/my-blog.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

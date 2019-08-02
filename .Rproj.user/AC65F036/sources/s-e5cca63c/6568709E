@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564681333704.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1353720392",
+    "id" : "6568709E",
+    "lastKnownWriteTime" : 1564681328,
+    "last_content_update" : 1564681328,
+    "path" : "~/websites/bjungbogati/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
