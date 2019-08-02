@@ -3,6 +3,7 @@ title: "My Blog"
 description: |
   My Blog
 output_dir: "_site"
+include: ["_redirects"]
 navbar:
   right:
     - text: "Home"
