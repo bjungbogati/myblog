@@ -1,20 +1,5 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to My Blog",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
-    "author": [
-      {
-        "name": "Binod",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2019-08-01",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-08-02T07:42:01+05:45"
-  },
-  {
     "path": "posts/",
     "title": "My blogs",
     "description": "A new article created using the Distill format.",
@@ -27,6 +12,6 @@
     "date": "2019-07-30",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-08-02T07:54:55+05:45"
+    "last_modified": "2019-08-02T07:59:24+05:45"
   }
 ]
